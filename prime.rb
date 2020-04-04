@@ -1,1 +1,2 @@
-# Add  code here!
+def prime?(1-=)
+  prime? = [array]
