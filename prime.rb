@@ -1,2 +1,3 @@
-def prime?(1-=)
-  prime? = [array]
+def prime?(integer)
+  #prime? = [array]
+end 
