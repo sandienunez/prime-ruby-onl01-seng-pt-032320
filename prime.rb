@@ -7,7 +7,7 @@ def prime?(integer)
     counter = 2 
     while counter < integer do 
       if integer % counter == 0 
-        return true 
+        return false 
       end
       counter = counter + 1 
     end
