@@ -12,4 +12,5 @@ def prime?(integer)
       counter = counter + 1 
     end
   end
+  return true 
 end 
